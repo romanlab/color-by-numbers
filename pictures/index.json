@@ -15,6 +15,81 @@
       "geometryVersion": "2c849ee4f9b4"
     },
     {
+      "id": "abc-ladybug",
+      "title": "Ladybug on a leaf",
+      "theme": "abc",
+      "added": "2026-10-16",
+      "maxN": 9,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "geometryVersion": "cd6951a68e8d"
+    },
+    {
+      "id": "abc-rocket",
+      "title": "Rocket in the stars",
+      "theme": "abc",
+      "added": "2026-10-16",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "3efbe34349e6"
+    },
+    {
+      "id": "alefbet-snail",
+      "title": "Snail in the garden",
+      "theme": "alefbet",
+      "added": "2026-10-16",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "48be74517cc7"
+    },
+    {
+      "id": "alefbet-whale",
+      "title": "Whale and the waves",
+      "theme": "alefbet",
+      "added": "2026-10-16",
+      "maxN": 10,
+      "nEffs": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "geometryVersion": "e93c45253626"
+    },
+    {
       "id": "dinos-ankylosaurus-garden",
       "title": "Spiky dino in the flowers",
       "theme": "dinos",
